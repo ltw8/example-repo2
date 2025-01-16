@@ -6,3 +6,4 @@ roll_d100 <- function() {
 roll_d100()
 roll_d100()
 roll_d100()
+roll_d100()
