@@ -4,3 +4,4 @@ roll_d100 <- function() {
   return(10 * d1 + d2)
 }
 roll_d100()
+roll_d100()
